@@ -83,6 +83,6 @@ python3 main.py
 ```
 
 ```
-git clone https://github.com/yourusername/WebREcon
+git clone https://github.com/z3r0X0r/WebREcon
 cd WebREcon
 ```
