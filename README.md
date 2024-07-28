@@ -19,7 +19,6 @@ Make sure you have the following tools installed:
 - `nmap`
 - `katana`
 - `uro`
-- `waybackurls`
 - `nuclei`
 
 You can install these tools using the following commands:
@@ -29,7 +28,6 @@ go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
 sudo apt-get install nmap
 go install -v github.com/projectdiscovery/katana/cmd/katana@latest
 pip install uro
-go get github.com/tomnomnom/waybackurls
 go install -v github.com/projectdiscovery/nuclei/v2/cmd/nuclei@latest
 ```
 
