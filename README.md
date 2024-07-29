@@ -19,8 +19,6 @@ Make sure you have the following tools installed:
 - `nmap`
 - `katana`
 - `uro`
-- `nuclei`
-
 You can install these tools using the following commands:
 ```bash
 go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
@@ -28,7 +26,6 @@ go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
 sudo apt-get install nmap
 go install -v github.com/projectdiscovery/katana/cmd/katana@latest
 pip install uro
-go install -v github.com/projectdiscovery/nuclei/v2/cmd/nuclei@latest
 ```
 
 ## 📂 Directory Structure
