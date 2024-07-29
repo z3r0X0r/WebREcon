@@ -75,7 +75,7 @@ def deduplicate_parameters(output_dir):
 
 def main():
     print_banner()
-    print(f"{Fore.YELLOW}Another z3r0X0r{Style.RESET_ALL}")
+    print(f"{Fore.YELLOW}Made by z3r0X0r{Style.RESET_ALL}")
     
     # Install necessary tools
     install_tool("subfinder", ["go", "install", "-v", "github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest"], "Subfinder")
