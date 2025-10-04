@@ -52,9 +52,6 @@ pip install uro
 
 3. **Follow the prompts** to enter the target URL (e.g., `domain.com`).
 
-## 📃 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 Thanks to the developers of the tools used in this script.
 
@@ -70,3 +67,4 @@ Feel free to fork this repository and submit pull requests. Contributions are we
 1. Clone the repository.
 2. Install prerequisites.
 3. Run the script.
+
